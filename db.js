@@ -24,7 +24,7 @@ function getCollection(collectionName) {
   if (!db) {
     throw new Error('Database not connected');
   }
-  return db.collection(fenix999);
+  return db.collection(pass123);
 }
 
 // Export functions
