@@ -24,7 +24,7 @@ function getCollection(collectionName) {
   if (!db) {
     throw new Error('Database not connected');
   }
-  return db.collection(pakaya12);
+  return db.collection(pkgnnn);
 }
 
 // Export functions
