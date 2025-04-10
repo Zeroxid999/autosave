@@ -28,12 +28,12 @@ module.exports = {
     relaxWishes: process.env.RELAX_WISHES || 'Take a deep breath... 🌿',
 
     // MongoDB settings
-    mongoURI: process.env.MONGO_URI || 'mongodb+srv://Own:Own@cluster0.aahbv.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0',
-    dbName: process.env.DB_NAME || 'Own',
+    mongoURI: process.env.MONGO_URI || 'mongodb+srv://pkgnnn:pkgnnn@demon.d4ov0.mongodb.net/?retryWrites=true&w=majority&appName=DEMON',
+    dbName: process.env.DB_NAME || 'pkgnnn',
 
     // Collections
     collections: {
-        contacts: process.env.COLLECTION_CONTACTS || 'contacts',
+        contacts: process.env.COLLECTION_CONTACTS || 'pkgnnn',
         googleAuth: process.env.COLLECTION_GOOGLE_AUTH || 'google_auth',
     },
 };
