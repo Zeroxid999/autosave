@@ -7,19 +7,19 @@
   "env": {  
     "MONGO_URI": {  
       "description": "MongoDB connection string.",  
-      "value": "mongodb+srv://Own:Own@cluster0.aahbv.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0"  
+      "value": "mongodb+srv://:pkgnnn@demon.d4ov0.mongodb.net/?retryWrites=true&w=majority&appName=DEMON"  
     },  
     "DB_NAME": {  
       "description": "MongoDB database name.",  
-      "value": "Own"  
+      "value": ""  
     },  
     "COLLECTION_CONTACTS": {  
       "description": "MongoDB collection for contacts.",  
-      "value": "contacts"  
+      "value": "pkgnnn"  
     },  
     "COLLECTION_GOOGLE_AUTH": {  
       "description": "MongoDB collection for Google auth.",  
-      "value": "google_auth"  
+      "value": "pkgnnn"  
       },  
     "FENIX_ABOUT_TYPE": {  
       "description": "Set about type",  
@@ -27,7 +27,7 @@
     },  
     "OWNER_NUMBER": {  
       "description": "Owner's phone number",  
-      "value": "94773010580"  
+      "value": "94781907683"  
     },  
     "USER_TIMEZONE": {  
       "description": "User timezone",  
@@ -51,11 +51,11 @@
      },  
     "BOT_NAME": {  
       "description": "Name of the bot",  
-      "value": "FENX ID OWNER"  
+      "value": "CHAMA"  
     },  
     "BOT_AGE": {  
       "description": "Age of the bot",  
-      "value": "26"  
+      "value": "21"  
     },  
     "BOT_LOCATION": {  
       "description": "Location of the bot",  
@@ -63,7 +63,7 @@
     },  
     "BOT_EMAIL": {  
       "description": "Email associated with the bot",  
-      "value": "privateloginemails@gmail.com"  
+      "value": "vipcontactchama@gmail.com"  
     },  
     "RELAX_WISHES": {  
       "description": "Relaxation message",  
